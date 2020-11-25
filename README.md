@@ -1,2 +1,2 @@
 # Amalga
-Amalga is a fully customizable, modular unit converter
+Amalga is an open-source, fully customizable & modular unit converter
